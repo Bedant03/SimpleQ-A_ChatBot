@@ -36,8 +36,8 @@ A simple and interactive Q&A chatbot built using **Streamlit**, **LangChain**, a
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/Bedant03/SimpleQ-A_ChatBot>
+cd <SimpleQ-A_ChatBot>
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -45,7 +45,7 @@ cd <repository-name>
 Using Conda:
 
 ```bash
-conda create -p venv python=3.11 -y
+conda create -p venv python=3.12 -y
 conda activate ./venv
 ```
 
